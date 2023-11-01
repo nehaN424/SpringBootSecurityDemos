@@ -3,4 +3,4 @@
 	url = https://github.com/nehaN424/springBootSecurity
 [submodule "SpringSecurityLoginWithDbConfigDemo"]
 	path = SpringSecurityLoginWithDbConfigDemo
-	url = https://github.com/nehaN424/SpringSecurityLonginWithDbConfigurationDemo
+	url = https://github.com/nehaN424/SpringSecurityLoginWithDbConfigurationDemo
