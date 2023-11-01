@@ -1,3 +1,6 @@
 [submodule "springBootSecurityDefaultConfiguration"]
 	path = springBootSecurityDefaultConfiguration
 	url = https://github.com/nehaN424/springBootSecurity
+[submodule "SpringSecurityLoginWithDbConfigurationDemo"]
+	path = SpringSecurityLoginWithDbConfigurationDemo
+	url = https://github.com/nehaN424/SpringSecurityLoginWithDbConfigurationDemo
