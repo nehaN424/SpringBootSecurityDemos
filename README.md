@@ -1,2 +1,2 @@
 # SpringBootSecurityDemos
-This repository is the collection of other repositories demonstrating different configurations available in Spring Boot Security 6
+This repository is the collection of other repositories demonstrating different configurations available in Spring Security 6
