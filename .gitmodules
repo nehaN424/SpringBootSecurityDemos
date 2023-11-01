@@ -1,0 +1,3 @@
+[submodule "springBootSecurityDefaultConfiguration"]
+	path = springBootSecurityDefaultConfiguration
+	url = https://github.com/nehaN424/springBootSecurity
